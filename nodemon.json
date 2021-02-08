@@ -2,7 +2,7 @@
     "env": {
       "DB_HOST": "localhost",
       "DB_USER": "root",
-      "DB_PWD": "Helloworld1.",
+      "DB_PWD": "",
       "DB_NAME": "fractalapp",
       "PORT": 5000,
       "JWT_KEY": "fractal_full_stack_app"
