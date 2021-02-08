@@ -6,6 +6,7 @@ Node, Express, Mysql
 
 # Prerequisites
 1) Make sure node is installed before running the application.
+2) Make sure mysql database is setup and execute DDL queries in DDL_fractalapp.sql file to create necessary tables.
 
 # Running application locally
 1) Make sure nodemon is installed globally
